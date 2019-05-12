@@ -49,6 +49,8 @@ author:
   email     : yalim.erdem@gmail.com
   facebook  : https://www.facebook.com/ylmrdm
   twitter   : https://twitter.com/ylmrdm
+  facebook  : ylmrdm
+  twitter   : ylmrdm
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
   googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
   telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name
@@ -59,6 +61,8 @@ author:
   github    : # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   linkedin  : https://www.linkedin.com/in/ylmrdm
   github    : https://github.com/ylmrdm
+  linkedin  : ylmrdm
+  github    : ylmrdm
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
 
