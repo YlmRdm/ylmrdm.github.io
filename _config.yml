@@ -21,6 +21,7 @@ highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "t
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
 title   : Your Site Title
+title   : Yalim Erdem
 description: > # this means to ignore newlines until "Language & timezone"
   Your Site Description
 
@@ -37,11 +38,17 @@ author:
   type      : # "person" (default), "organization"
   name      : Your Name
   url       :
+  name      : Yalim Erdem
+  url       : https://ylmrdm.github.io
   avatar    : # path or url of avatar image (square)
   bio       : I am an amazing person.
   email     :
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
+  bio       : I am a Software Engineer, MSc.
+  email     : yalim.erdem@gmail.com
+  facebook  : https://www.facebook.com/ylmrdm
+  twitter   : https://twitter.com/ylmrdm
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
   googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
   telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name
@@ -50,12 +57,15 @@ author:
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
   linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
   github    : # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  linkedin  : https://www.linkedin.com/in/ylmrdm
+  github    : https://github.com/ylmrdm
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
 repository: user_name/repo_name
+repository: ylmrdm/ylmrdm.github.io
 repository_tree: master
 
 
